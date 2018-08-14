@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="End to End Suite" duration-ms="0" started-at="2018-08-04T18:42:56Z" finished-at="2018-08-04T18:42:56Z">
+    <groups>
+    </groups>
+  </suite> <!-- End to End Suite -->
+</testng-results>
